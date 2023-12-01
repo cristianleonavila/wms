@@ -1,0 +1,6 @@
+(function (win) {
+        
+    win.login = {
+        
+    };
+})();
